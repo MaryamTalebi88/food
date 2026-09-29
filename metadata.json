@@ -1,0 +1,6 @@
+{
+  "name": "کرافت برگر - فست‌فود تخصصی سه‌بعدی",
+  "description": "تجربه سه‌بعدی و تعاملی فست‌فود کرافت برگر با انیمیشن باز شدن لایه‌ها با اسکرول، منوی آنلاین، سفارشی‌سازی برگر و سفارش سریع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
